@@ -21,7 +21,7 @@ This limit order book supports all common order types usually available in tradi
 - Market Order - Orders to buy or sell at the best market price.
 - Limit Order (Add, Modify & Cancel) - Orders to buy or sell at the defined limit price and that does not produce trades instantly.
 - Market Limit Order - Limit orders that cross the limit order book and produces trades. 
-- Stop Order (Add, Modify & Cancel) - Orders that are converted into a Market order when the current market price crosses their stop price. 
+- Stop Order (Add, Modify & Cancel) - Orders that are converted into a Market order when the current market price crosses their stop price.  
 - Stop Limit Order (Add, Modify & Cancel) - Orders that are converted into a Limit order when the current market price crosses their stop price. 
 
 ## Project Tree
