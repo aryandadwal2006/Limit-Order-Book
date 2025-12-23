@@ -6,7 +6,7 @@ Performance testing of the order book was also quite a challenging task as it re
 
 ## Background
 
-### Matching Engine
+### Matching Engine 
 
 <img src="./figures/exchange.png" alt="Exchange Diagram" width="500"/>
 
